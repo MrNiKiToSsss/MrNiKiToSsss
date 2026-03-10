@@ -33,5 +33,5 @@
 ---
 <div align="center">
 
-<img src="O:\tenor.gif" width="600"/>
+<img src="tenor.gif" width="600"/>
 </div>
