@@ -31,9 +31,12 @@
 ![LM Studio](https://img.shields.io/badge/LM%20Studio-111111?style=for-the-badge)
 
 ---
-# Статистика GitHub
+<div align="center">
 
-<p align="center">
-  <img src="https://c.tenor.com/6qY5rVq0YzMAAAAC/%D1%88%D0%B8%D0%B7%D0%BE%D1%84%D1%80%D0%B5%D0%BD%D0%B8%D1%8F.gif" width="600"/>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3hrMHZ4dWx1Y2k5a3R4aWp1b2JoZ3lvZ2R2bXozdmpxNmt4eXp5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pEWkxXkpw7SAJEuBmL/giphy.gif" width="600"/>
-</p>
+<img src="https://images.weserv.nl/?url=media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3hrMHZ4dWx1Y2k5a3R4aWp1b2JoZ3lvZ2R2bXozdmpxNmt4eXp5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pEWkxXkpw7SAJEuBmL/giphy.gif" width="600"/>
+
+<br><br>
+
+<img src="https://images.weserv.nl/?url=media.tenor.com/6qY5rVq0YzMAAAAC/schizophrenia.gif" width="600"/>
+
+</div>
