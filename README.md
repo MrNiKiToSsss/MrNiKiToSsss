@@ -34,6 +34,6 @@
 # Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrNiKiToSsss&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNiKiToSsss&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://tenor.com/ru/view/шизофрения-gif-23494803" width="600"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3hrMHZ4dWx1Y2k5a3R4aWp1b2JoZ3lvZ2R2bXozdmpxNmt4eXp5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pEWkxXkpw7SAJEuBmL/giphy.gif" width="600"/>
 </p>
