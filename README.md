@@ -33,10 +33,5 @@
 ---
 <div align="center">
 
-<img src="https://images.weserv.nl/?url=media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3hrMHZ4dWx1Y2k5a3R4aWp1b2JoZ3lvZ2R2bXozdmpxNmt4eXp5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pEWkxXkpw7SAJEuBmL/giphy.gif" width="600"/>
-
-<br><br>
-
-<img src="https://images.weserv.nl/?url=media.tenor.com/6qY5rVq0YzMAAAAC/schizophrenia.gif" width="600"/>
-
+<img src="O:\tenor.gif" width="600"/>
 </div>
